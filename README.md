@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dat</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center"> I am an undergraduate student at FPT University in Software Engineering</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java, HTML, CSS, JS**
+- 💬 I am currently focusing on:
+  - Front-end: ReactJS, Bootstrap
+  - Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
 
 - 📫 How to reach me **hotiendat661@gmail.com**
 
