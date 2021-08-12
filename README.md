@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dat</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [React Super Chat](https://github.com/HT-Dat/react-firebase-superchat)
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Java, HTML, CSS, JS**
